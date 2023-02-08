@@ -7,7 +7,9 @@ step 2: Aller dans le fichier "index.html" et supprimer les lignes inutile afin 
 <img src="assets/index_html_example.png"/>
 
 Et donc quand vous lancez votre appli grâce a la commande suivante:
-```npm start```
+```
+npm start
+```
 vous vous retrouvez devant une page blanche.
 
 # A vous de jouer
