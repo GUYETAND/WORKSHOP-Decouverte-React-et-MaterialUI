@@ -4,7 +4,7 @@ step 1: Crée votre projet react en utilisant le terminal.
 
 step 2: Aller dans le fichier "index.html" et supprimer les lignes inutile afin d'avoir une page internet vierge
 
-<img src="assets/index_html_example.png" width="500" height="500"/>
+<img src="assets/index_html_example.png"/>
 
 Et donc quand vous lancez votre appli grâce a la commande suivante:
 ```npm start```
