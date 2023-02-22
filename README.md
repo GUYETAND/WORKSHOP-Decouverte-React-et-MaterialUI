@@ -2,9 +2,11 @@
 
 step 1: Crée votre projet react en utilisant le terminal.
 
-step 2: Aller dans le fichier "index.html" et supprimer les lignes inutile afin d'avoir une page internet vierge
+step 2: Aller dans le fichier "index.html" et "App.js" et supprimer les lignes inutile afin d'avoir une page internet vierge
 
 <img src="assets/index_html_example.png"/>
+
+<img src="assets/app.png"/>
 
 Et donc quand vous lancez votre appli grâce a la commande suivante:
 ```
